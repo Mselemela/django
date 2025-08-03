@@ -1,0 +1,20 @@
+LICENSE
+MANIFEST.in
+README.rst
+pyproject.toml
+django_polls.egg-info/PKG-INFO
+django_polls.egg-info/SOURCES.txt
+django_polls.egg-info/dependency_links.txt
+django_polls.egg-info/requires.txt
+django_polls.egg-info/top_level.txt
+django_polls/static/polls/style.css
+django_polls/static/polls/images/240Z.jpg
+django_polls/static/polls/images/Screenshot 2025-05-17 053428.png
+django_polls/templates/polls/details.html
+django_polls/templates/polls/index.html
+django_polls/templates/polls/results.html
+polls/__init__.py
+polls/asgi.py
+polls/settings.py
+polls/urls.py
+polls/wsgi.py
